@@ -32,8 +32,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Galsz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Galsz&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Galsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Galsz&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <br/>
