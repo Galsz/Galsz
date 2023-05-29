@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Computer Engineering at <a href="https://www.uniso.br/home">UNISO</a>.
 - 💼 &nbsp; Working as a computer intern at <a href="https://wvetro.com.br">Wvetro</a>.
-- 🌱 &nbsp; always looking for knowledge in the area of ​​technology.
+- 🌱 &nbsp; Always looking for knowledge in the area of ​​technology.
 - ✍️ &nbsp; My skills in Java, Python, C#, HTML, and CSS are at an intermediate level.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -22,7 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio&logoColor=blueviolet)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=blueviolet)
   ![Genexus](https://img.shields.io/badge/-Genexus-333333?style=flat)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
